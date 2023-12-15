@@ -23,7 +23,7 @@ public class HomeController {
         }else if (num == 0){
             log.warn("[" + envInfo + "]/aws/v2 warn로그 ###################################");
         }
-        return "<h1>AWS 배포 v2</h1>";
+        return "<h1>홍길동</h1>";
     }
     
     
